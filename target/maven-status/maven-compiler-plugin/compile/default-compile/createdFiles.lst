@@ -1,0 +1,7 @@
+com\example\s3\S3BucketOps2.class
+GeneratePresignedUrlAndUploadObject.class
+com\example\s3\S3ObjectOperations.class
+com\example\s3\S3BucketDeletion.class
+.netbeans_automatic_build
+com\example\s3\AbortMultipartUpload.class
+com\example\s3\S3BucketOps.class
